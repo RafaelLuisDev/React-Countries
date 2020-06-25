@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Countries/static/css/main.17386685.chunk.css",
+    "main.js": "/React-Countries/static/js/main.5557b66f.chunk.js",
+    "main.js.map": "/React-Countries/static/js/main.5557b66f.chunk.js.map",
+    "runtime-main.js": "/React-Countries/static/js/runtime-main.5706c700.js",
+    "runtime-main.js.map": "/React-Countries/static/js/runtime-main.5706c700.js.map",
+    "static/css/2.36020323.chunk.css": "/React-Countries/static/css/2.36020323.chunk.css",
+    "static/js/2.c15ca7d6.chunk.js": "/React-Countries/static/js/2.c15ca7d6.chunk.js",
+    "static/js/2.c15ca7d6.chunk.js.map": "/React-Countries/static/js/2.c15ca7d6.chunk.js.map",
+    "index.html": "/React-Countries/index.html",
+    "precache-manifest.ed92289ce5f3913d4322975279bb77e7.js": "/React-Countries/precache-manifest.ed92289ce5f3913d4322975279bb77e7.js",
+    "service-worker.js": "/React-Countries/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/React-Countries/static/css/2.36020323.chunk.css.map",
+    "static/css/main.17386685.chunk.css.map": "/React-Countries/static/css/main.17386685.chunk.css.map",
+    "static/js/2.c15ca7d6.chunk.js.LICENSE.txt": "/React-Countries/static/js/2.c15ca7d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5706c700.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.c15ca7d6.chunk.js",
+    "static/css/main.17386685.chunk.css",
+    "static/js/main.5557b66f.chunk.js"
+  ]
+}
